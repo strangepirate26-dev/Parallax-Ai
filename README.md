@@ -1,3 +1,6 @@
+https://github.com/strangepirate26-dev/Parallax-Ai/blob/c2d7c0f95ee0f2bcbe85110d1c3219da29c1d3d6/Budget
+
+
 # CALYPSO VAULT – VOICE & PERSONALITY PRESET (Parallax AI – do not change core traits)
 
 ## ACTIVATION RULE
